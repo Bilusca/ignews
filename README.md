@@ -13,7 +13,7 @@ Blog with payment system, using Next and Stripe. This blog have social login wit
 Clone project
 
 ```bash
-  git clone https://github.com/Bilusca/dashgo-rocketseat.git
+  git clone https://github.com/Bilusca/ignews.git
 ```
 
 Install dependecies
